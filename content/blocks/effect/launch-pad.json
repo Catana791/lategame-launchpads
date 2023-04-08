@@ -5,5 +5,8 @@
     "silicon/500",
     "plastanium/250",
     "phase-fabric/200"
-  ]
+  ],
+  "consumes": {
+    "power": 8 
+  }
 }
